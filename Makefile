@@ -1,2 +1,2 @@
 test:
-	python test_project/manage.py test stronghold
+	python manage.py test stronghold
